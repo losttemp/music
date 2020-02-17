@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yuanMusicPlay.iml" filepath="$PROJECT_DIR$/yuanMusicPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Yuan-SxMusic.iml" filepath="$PROJECT_DIR$/.idea/Yuan-SxMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Yuan-SxMusic.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Yuan-SxMusic.app.iml" />
     </modules>
   </component>
 </project>
